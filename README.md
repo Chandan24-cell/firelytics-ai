@@ -13,6 +13,9 @@
 >
 > **Core project pillars:** **24 NASA PSI investigations / ~12.4 TB repository scope** and **14 Scientific Safety Principles**. Only 14 records are deeply indexed; see the [scope accounting](#full-nasa-psi-repository-coverage-24-investigations-124-tb-scope) and [full safety-principles audit](docs/ADVANCED_IMPLEMENTATION_AUDIT.md#12-scientific-limitations--mandatory-epistemic-guardrails).
 
+
+https://firelytics-ai.vercel.app
+
 ## 1. Hero Header & Mission Badges
 
 FIRELYTICS AI turns NASA Physical Science Informatics (PSI) combustion-research metadata and a reconciled subset of archived SAME-R analysis into a traceable workbench for exploring fire-safety evidence. It is an independent research and educational prototype, not a NASA operational tool.
